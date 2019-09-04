@@ -1,0 +1,13 @@
+body{
+    background-image: url('../img/hf77kkmbmmy01.jpg');
+    background-attachment: fixed;
+}
+#logo{
+    background: #CA3413;
+}
+#menu ul li:hover{
+    background: #CA3413;
+}
+.button-more{
+    background-color: #CA3413;
+}

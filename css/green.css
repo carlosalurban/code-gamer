@@ -1,0 +1,13 @@
+body{
+    background-image: url('../img/descarga.jpg');
+    background-attachment: fixed;
+}
+#logo{
+    background: #50e691;
+}
+#menu ul li:hover{
+    background: #50e691;
+}
+.button-more{
+    background-color: #50e691;
+}
